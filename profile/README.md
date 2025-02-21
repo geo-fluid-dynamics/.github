@@ -6,4 +6,4 @@ Geo Fluid Dynamics (GFD) was a research group at RWTH Aachen University led by [
 
 👋 **Hello MBD!**
 
-Please follow MBD - ([Chair of  Methods for Model-based Development in Computational Engineering](www.mbd.rwth-aachen.de)) for our current research activity. You can follow our new Github account ([mbd-rwth](www.github.com/mbd-rwth)) for our latest open-source software projects.
+Please follow MBD - ([Chair of  Methods for Model-based Development in Computational Engineering](https://www.mbd.rwth-aachen.de)) for our current research activity. You can follow our new Github account ([mbd-rwth](https://www.github.com/mbd-rwth)) for our latest open-source software projects.
